@@ -1,5 +1,6 @@
 import random as r;
 
+
 def userChoice(p):
     return (r.random() > p)
 

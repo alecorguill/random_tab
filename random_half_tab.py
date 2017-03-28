@@ -3,7 +3,6 @@ from pprint import pprint
 import numpy as np
 
 
-
 def tab_random_half(n,hashtab):
     if (n%2==1):
         return "Le nombre est impair"
